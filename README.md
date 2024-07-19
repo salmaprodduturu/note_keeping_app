@@ -1,8 +1,9 @@
-User Authentication and Content Sync
+# User Authentication and Content Sync
+
   Secure login and registration
   Synchronization of notes across devices
 
-Menu Features
+# Menu Features
 
   Create a new note
   Search within notes
